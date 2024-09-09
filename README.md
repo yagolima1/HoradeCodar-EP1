@@ -1,6 +1,8 @@
 # HoradeCodar-EP1
-Dedico este repositório para o primeiro episódio da tarefa "Hora de Codar!", uma grande saga que esta por vir.
-# OBS: Em breve pretendo fazer um remake deste episódio.
+
+Dedico este repositório para o primeiro episódio da tarefa "Hora de Codar!", uma grande saga que está por vir.
+
+## OBS: Em breve pretendo fazer um remake deste episódio.
 
 ## Exercícios
 
