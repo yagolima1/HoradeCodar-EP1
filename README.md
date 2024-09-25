@@ -4,6 +4,8 @@ Dedico este repositório para o primeiro episódio da tarefa "Hora de Codar!", u
 
 ## OBS: Em breve pretendo fazer um remake deste episódio.
 
+---
+
 ## Exercícios
 
 ### 1. Exibição de Nome do Carro
@@ -53,3 +55,5 @@ O programa permite ao usuário escolher uma forma geométrica e, em seguida, sol
 
 ## Autor
 Este projeto foi desenvolvido como parte de exercícios de prática em programação, proposto pelo Professor Gabriel.
+
+---
